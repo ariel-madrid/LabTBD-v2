@@ -18,3 +18,5 @@ en el puerto http://localhost:3000/ y se podra utilizar el front de la entrega.
   <li>Con estos pasos quedaria listo para poder interactuar con la App Web.</li>
   
 </ol>
+
+Los commits asociados a cada integrante del grupo se pueden observar en la presentacion entregada. Se crea este nuevo respositorio por un tema de formalidad mas que nada y mantener un orden en las entregas.
